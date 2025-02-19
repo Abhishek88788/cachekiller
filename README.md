@@ -45,7 +45,7 @@ journalctl --vacuum-size=100M
 - **No Viruses, No Spam:** Open-source, safe, and thoroughly tested.  
 - **Uses Only System Commands:** Relies on trusted Linux utilities.  
 - **Runs as Root for Full Cleanup:** Requires `sudo` for deeper cleaning.  
-- **Transparency:** View the source code [here](https://github.com/Abhishek88788/cachekiller).  
+- **Transparency:** View the source code [here](https://github.com/Abhishek88788/CacheKiller/blob/main/cachekiller.sh).  
 
 For more details on the commands used, check:  
 - [APT Cleanup Guide](https://linux.die.net/man/8/apt-get)  
