@@ -59,7 +59,7 @@ For more details on the commands used, check:
 ### 🔽 Download the Script  
 
 ```bash
-wget https://raw.githubusercontent.com/Abhishek88788/cachekiller/main/cleaner.sh  
+wget https://raw.githubusercontent.com/Abhishek88788/cachekiller/main/cachekiller.sh  
 ```
 ```bash
 chmod +x cachekiller.sh  
