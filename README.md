@@ -60,19 +60,23 @@ For more details on the commands used, check:
 
 ```bash
 wget https://raw.githubusercontent.com/Abhishek88788/cachekiller/main/cleaner.sh  
-chmod +x cleaner.sh  
+```
+```bash
+chmod +x cachekiller.sh  
 ```
 
 ### 🚀 Run the Script  
 
 ```bash
-sudo ./cleaner.sh  
+sudo ./cachekiller.sh  
 ```
 
 ### 📌 Install as a System-wide Command  
 
 ```bash
-sudo mv cleaner.sh /usr/local/bin/cachekiller  
+sudo mv cachekiller.sh /usr/local/bin/cachekiller
+```
+```bash  
 sudo chmod +x /usr/local/bin/cachekiller  
 ```
 
